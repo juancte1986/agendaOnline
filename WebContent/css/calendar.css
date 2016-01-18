@@ -1,0 +1,189 @@
+@CHARSET "ISO-8859-1";
+
+
+.columnHours{
+	width: 50px;
+	color:  #fff;
+    position: relative;
+    font-size: 13px;
+    height: 940px;
+}
+
+.dragEventsSunday {
+	position: absolute;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+	background: #006699;
+	color: white;
+}
+
+.columnSunday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+ 	background-color: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsSunday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.dragEventsMonday {
+	width: 200px;
+	border: 1px solid GhostWhite;
+	position: absolute;
+}
+
+th {
+	color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;	
+}
+
+td{
+	color: #fff;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    
+}
+
+.columnMonday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+	background: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsMonday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.dragEventsTuesday {
+	width: 200px;
+	border: 1px solid GhostWhite;
+	position: absolute;
+	
+}
+
+.columnTuesday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+	background: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsTuesday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.dragEventsWednesday {
+	width: 200px;
+	position: absolute;
+}
+
+.columnWednesday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+	background: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsWednesday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.dragEventsThursday {
+	width: 200px;
+	border: 1px solid GhostWhite;
+	position: absolute;
+}
+
+.columnThursday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+	background: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsThursday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.dragEventsFriday {
+	width: 200px;
+	border: 1px solid GhostWhite;
+	position: absolute;
+}
+
+.columnFriday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+	background: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsFriday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.dragEventsSaturday {
+	width: 200px;
+	border: 1px solid GhostWhite;
+	position: absolute;
+}
+
+.columnSaturday {
+	overflow: hidden;
+	max-width: 200px;
+	height: 940px;
+	background: #fff;
+	position: relative; 
+	border: 1px solid #fff;
+}
+
+.eventsSaturday{
+	width: 200px;
+	border: 1px solid #fff;
+	position: absolute;
+}
+
+.linkCalendar{
+	color:  #fff;
+}
+
+.linkCalendar:hover, .linkCalendar:focus {
+    color:  #fff;
+    text-decoration: underline;
+}
+
+.celda {
+	border-bottom: 1px solid #337ab7;
+	height: 20px;
+	width: 200px;
+	position: absolute;
+}

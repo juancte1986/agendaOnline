@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+
+.card-container.card {
+    max-width: 350px;
+    padding-top: 40px;
+    min-height: 700px
+}
+
+.card {
+    margin: 0 auto 25px;
+}
